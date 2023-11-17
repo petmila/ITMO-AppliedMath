@@ -1,0 +1,8 @@
+{" f ": [-1 , -1] ,
+" goal ": " min " ,
+" constraints ": [{" coefs ": [-1 , 1] ,
+" type ": " lte " ,
+" b ": 1} ,
+{" coefs ": [1 , -2] ,
+" type ": " lte " ,
+" b ": 2}]}

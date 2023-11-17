@@ -1,0 +1,13 @@
+{" f ": [3, 5, 4],
+" goal ": " max ",
+" constraints ": [
+    {" coefs ": [2, 3, 0],
+     " type ": " lte ",
+     " b ": 8},
+    {" coefs ": [0, 2, 5],
+     " type ": " lte ",
+     " b ": 10},
+    {" coefs ": [3, 2, 4],
+     " type ": " lte ",
+     " b ": 15}
+]}
